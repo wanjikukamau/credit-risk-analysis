@@ -64,7 +64,16 @@ The project included:
 - Root cause analysis
 - Portfolio performance reporting
 
----
+---### Portfolio Performance Analysis
+
+![Portfolio Performance](Dataset.png2)
+### Delinquency Analysis
+
+![Delinquency Analysis](Dataset.png3)
+### Portfolio Risk Metrics
+
+![NPL Ratio](Dataset.png5)
+
 
 ## Key Findings
 
