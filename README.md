@@ -42,7 +42,10 @@ Before analysis, the dataset was cleaned by:
 - Organizing column names
 - Validating data quality
 - Creating new analytical fields
+- ### Cleaned Dataset
+### Cleaned Dataset
 
+![Cleaned Dataset](dataset.png)
 Additional columns created:
 
 - Repayment Status
